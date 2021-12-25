@@ -18,7 +18,6 @@ lw $v0, hookAdd1
 jr $ra
 nop
 hookAdd1:
-; You set the battery percentage below
 addiu $v0, $zero, 50
 .end fx_rethookIsLowBattery
 
