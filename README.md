@@ -48,8 +48,7 @@ Credits
 -------
 
 I used the library uofwinst which is GPL-3 and automatically makes this GPL-3 as
-well. As well as the fact that I've stolen 99% of the code from [this]
-(https://www.brewology.com/downloads/download.php?id=9358)
+well. As well as the fact that I've stolen 99% of the code from [this](https://www.brewology.com/downloads/download.php?id=9358)
 
 Additional stuffs
 -----------------
